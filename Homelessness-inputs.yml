@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/homelessness-vlack---primary.py
+inputModule3:
+  class: File
+  path: python/homelessness-administration---primary.py
+inputModule4:
+  class: File
+  path: python/homelessness-advocacy---primary.py
+inputModule5:
+  class: File
+  path: python/homelessness-accommodation---primary.py
+inputModule6:
+  class: File
+  path: python/temporary-homelessness---primary.py
+inputModule7:
+  class: File
+  path: python/homelessness-vagrant---primary.py
+inputModule8:
+  class: File
+  path: python/homelessness-abode---primary.py
+inputModule9:
+  class: File
+  path: python/homelessness-family---primary.py
+inputModule10:
+  class: File
+  path: python/homelessness-tramp---primary.py
+inputModule11:
+  class: File
+  path: python/homelessness-completed---primary.py
+inputModule12:
+  class: File
+  path: python/single-homelessness---primary.py
+inputModule13:
+  class: File
+  path: python/homelessness-hostel---primary.py
+inputModule14:
+  class: File
+  path: python/vagabond-homelessness---primary.py
+inputModule15:
+  class: File
+  path: python/homelessness-length---primary.py
+inputModule16:
+  class: File
+  path: python/rough-homelessness---primary.py
+inputModule17:
+  class: File
+  path: python/homeless---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
