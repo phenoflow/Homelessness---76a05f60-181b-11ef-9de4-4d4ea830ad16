@@ -8,8 +8,8 @@ steps:
       inputModule:
         id: inputModule
         source: inputModule1
-  homelessness-vlack---primary:
-    run: homelessness-vlack---primary.cwl
+  homelessness-housing---primary:
+    run: homelessness-housing---primary.cwl
     out:
     - output
     in:
@@ -29,7 +29,7 @@ steps:
         source: inputModule3
       potentialCases:
         id: potentialCases
-        source: homelessness-vlack---primary/output
+        source: homelessness-housing---primary/output
   homelessness-advocacy---primary:
     run: homelessness-advocacy---primary.cwl
     out:

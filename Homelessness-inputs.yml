@@ -3,7 +3,7 @@ inputModule1:
   path: js/read-potential-cases-i2b2.js
 inputModule2:
   class: File
-  path: python/homelessness-vlack---primary.py
+  path: python/homelessness-housing---primary.py
 inputModule3:
   class: File
   path: python/homelessness-administration---primary.py
